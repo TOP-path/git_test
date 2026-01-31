@@ -1,1 +1,4 @@
 adding some text here for the git test!
+
+Changing up the text again to see if I can get the git commit
+as described to work within vs code
